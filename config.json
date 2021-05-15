@@ -1,0 +1,26 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/a blog by rks",
+        "prod_uri": "mysql://root:@localhost/a blog by rks",
+        "fb_url": "https://facebook.com/a blog by rk",
+        "tw_url": "https://twitter.com/a blog by rks",
+        "gh_url": "https://github.com/a blog by rks",
+        "blog_name": "My First Blog",
+        "tag_line": "A blog by using Flask",
+        "gmail_user": "coolrohit.soni14@gmail.com",
+        "gmail_password": "rohit@9896s",
+        "about_text": " My name is Rohit, belongs to Rewari, a district in Haryana,\n\nCurrently, I'm pursuing 'Btech(Cse)' from IP Delhi,\n\nI have done my 12 in 2017 from Holy Child Public School, Rewari.\n\nComing to my strength I'm self-motivated, a quick learner,\n\nNow coming to my family background we are four members in my family including me my father is a Service Man and my mother is a Homemaker.\n\nI have one elder brother who is doing Job in private sector.\n\nMy hobbies  Cooking, Traveling, Gyming.\n\nI'm glad to share my first blog which I prepare it by using flask ",
+        "no_of_posts": 2,
+        "login_img": "ad.png",
+        "admin_user" : "rohit",
+        "admin_password": "integer23",
+        "upload_location": "C:\\Users\\Dell\\PycharmProjects\\Flask-tut\\static\\img",
+        "blog_title": "welcome_to_my_blog",
+        "navbar_title" : "A blog by RKS",
+        "card_img": "rs.jpg"
+
+    }
+
+}
